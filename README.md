@@ -14,6 +14,10 @@ My research focuses on **compiler testing**. Below is a list of issues I reporte
 
 **OpenJ9** [#21905](https://github.com/eclipse-openj9/openj9/issues/21905), [#21949](https://github.com/eclipse-openj9/openj9/issues/21949), [#22109](https://github.com/eclipse-openj9/openj9/issues/22109), [#22163](https://github.com/eclipse-openj9/openj9/issues/22163), [#22164](https://github.com/eclipse-openj9/openj9/issues/22164), [#22448](https://github.com/eclipse-openj9/openj9/issues/22448)
 
+**仓颉 / cangjie_compiler** [#1024](https://gitcode.com/Cangjie/cangjie_compiler/issues/1024), [#1023](https://gitcode.com/Cangjie/cangjie_compiler/issues/1023), [#1016](https://gitcode.com/Cangjie/cangjie_compiler/issues/1016), [#1010](https://gitcode.com/Cangjie/cangjie_compiler/issues/1010)
+
+**仓颉 / UsersForum** [#3351](https://gitcode.com/Cangjie/UsersForum/issues/3351), [#3350](https://gitcode.com/Cangjie/UsersForum/issues/3350), [#3349](https://gitcode.com/Cangjie/UsersForum/issues/3349)
+
 <!--
 **Xniao/Xniao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
